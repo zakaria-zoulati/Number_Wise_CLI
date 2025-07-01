@@ -116,6 +116,37 @@ The following algorithms are supported:
 
 ---
 
+## Adding `numberwise` Command to Environment Variables
+
+To make the `numberwise` command globally accessible, follow these steps:
+
+1. **Locate the `numberwise.bat` File**  
+   Ensure the `numberwise.bat` file is in a known directory (e.g., `C:\Users\PC\Desktop\curr\Number_Wise_CLI`).
+
+2. **Copy the Path**  
+   Navigate to the folder containing `numberwise.bat`.  
+   Right-click the address bar in File Explorer and copy the folder path (e.g., `C:\Users\PC\Desktop\curr\Number_Wise_CLI`).
+
+3. **Open Environment Variables**  
+   - Press `Win + S` and search for "Environment Variables."
+   - Click on **Edit the system environment variables**.
+   - In the **System Properties** window, click **Environment Variables**.
+
+4. **Edit the `Path` Variable**  
+   - Under **System Variables**, find the `Path` variable and select it.
+   - Click **Edit**.
+
+5. **Add the Path**  
+   - Click **New** and paste the folder path where `numberwise.bat` is located.
+   - Click **OK** to save.
+
+6. **Verify the Setup**  
+   - Open a new terminal (Command Prompt or PowerShell).
+   - Type `numberwise` and press Enter.
+   - If the CLI help menu appears, the setup is complete.
+
+---
+
 ## Development
 
 ### Code Structure
@@ -139,3 +170,4 @@ The following algorithms are supported:
 - [Jackson](https://github.com/FasterXML/jackson): JSON parsing.
 
 ---
+
