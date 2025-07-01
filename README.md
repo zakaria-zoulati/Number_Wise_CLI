@@ -24,13 +24,13 @@
 ## Some Examples :
 
 ### 1. CLI Help Menu
-![CLI Help Menu](images/cli_help_menu.png)
+![CLI Help Menu](images/helpCommand.png)
 
 ### 2. Single Algorithm Check
-![Single Algorithm Check](images/single_algorithm_check.png)
+![Single Algorithm Check](images/PrimeCheck.png)
 
 ### 3. Overview Command
-![Overview Command](images/overview_command.png)
+![Overview Command](images/overviewExample.png)
 
 ---
 
