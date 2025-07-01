@@ -21,6 +21,19 @@
 
 ---
 
+## Some Examples :
+
+### 1. CLI Help Menu
+![CLI Help Menu](images/cli_help_menu.png)
+
+### 2. Single Algorithm Check
+![Single Algorithm Check](images/single_algorithm_check.png)
+
+### 3. Overview Command
+![Overview Command](images/overview_command.png)
+
+---
+
 ## Installation
 
 ### Prerequisites
@@ -170,4 +183,3 @@ To make the `numberwise` command globally accessible, follow these steps:
 - [Jackson](https://github.com/FasterXML/jackson): JSON parsing.
 
 ---
-
